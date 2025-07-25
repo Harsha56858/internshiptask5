@@ -24,6 +24,4 @@ Fetch and display user data from a real-time public API using JavaScript, styled
 2. Open `index.html` in your browser
 3. Search and explore user data dynamically!
 
----
 
-✅ Project by [Your Name] for Cognifyz Internship - Task 5
